@@ -1,5 +1,3 @@
-# Embervest Design System
-
 <p align="center">
   <a href="https://embervest.com">
     <picture>
